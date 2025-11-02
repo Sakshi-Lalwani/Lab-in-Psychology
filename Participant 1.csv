@@ -1,0 +1,21 @@
+﻿test_word,references,old_new,test_textbox.text,,,
+bo_t_e,bottle,new,bottle,,,
+_ou_se,mouse,new,mouse,,,
+p_li_e,police,new,police,,,
+l_pt_p,laptop,new,laptop,,,
+p_nc_l,pencil,old,pencil,,,
+c_m_ra,camera,old,camera,,,
+p_st_r,poster,old,poster,,,
+_oo_,book,old,book,,,
+c_s_io_,cushion,old,cushion,,,
+v_s_,vase,old,vase,,,
+_ru_is_,cruise,old,cruise,,,
+c_s_,case,old,case,,,
+k_y_,keys,old,keys,,,
+,,,,,,
+,Column1,Column2,Column3,Column4,Column5,Column6
+,Column1,Column2,Column3,Column4,Column5,Column6
+,Participant 1 ,,,,,
+,Proportion of hit from primed list,,,,9/15,0.6
+,Proportion of hit from unprimed list ,,,,4/5,0.8
+,Priming score ,,,,,-0.2
